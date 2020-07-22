@@ -1,0 +1,18 @@
+{
+  "name": "webscraping-cheerio",
+  "version": "1.0.0",
+  "description": "Amazon Price Tracker Using Cheerio for Web Scraping",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "cheerio": "^1.0.0-rc.3",
+    "nodemailer": "^6.4.10",
+    "request": "^2.88.0"
+  }
+}
